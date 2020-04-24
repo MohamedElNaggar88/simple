@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/simple.git/static/js/main.41df5826.chunk.js",
+    "main.js.map": "/simple.git/static/js/main.41df5826.chunk.js.map",
+    "runtime-main.js": "/simple.git/static/js/runtime-main.3c8fadc1.js",
+    "runtime-main.js.map": "/simple.git/static/js/runtime-main.3c8fadc1.js.map",
+    "static/js/2.932ccb41.chunk.js": "/simple.git/static/js/2.932ccb41.chunk.js",
+    "static/js/2.932ccb41.chunk.js.map": "/simple.git/static/js/2.932ccb41.chunk.js.map",
+    "index.html": "/simple.git/index.html",
+    "precache-manifest.95b80906a83269e996b8327fcfb69513.js": "/simple.git/precache-manifest.95b80906a83269e996b8327fcfb69513.js",
+    "service-worker.js": "/simple.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/simple.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.932ccb41.chunk.js.LICENSE.txt": "/simple.git/static/js/2.932ccb41.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/simple.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c8fadc1.js",
+    "static/js/2.932ccb41.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.41df5826.chunk.js"
+  ]
+}
